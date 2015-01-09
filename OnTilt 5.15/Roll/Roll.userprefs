@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\gimmicks\collectGoal.js">
+    <Files>
+      <File FileName="Assets\scripts\gimmicks\collectGoal.js" Line="45" Column="3" />
+      <File FileName="Assets\scripts\object\goal.js" Line="2" Column="1" />
+      <File FileName="Assets\scripts\object\Loadlv_and_HighScore.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\system script\Levels.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\script\LevelScript.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gimmicks\becomeGreen.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\script\select.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\object\Button_Gravity.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gimmicks\collectGoal.js" Line="3" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

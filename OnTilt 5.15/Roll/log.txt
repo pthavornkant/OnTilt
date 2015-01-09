@@ -1,0 +1,19 @@
+Updates:
+BackGrounds
+Shaders
+
+Option Menu added in Level selection
+multiplier for tilting( does not affect on pc)
+ 
+normal Level selection
+well..it works... it can do gimmick side in an hr
+
+Game can start by touching anywhere on mainmenu
+
+there are many balls in the ball pack if you want to try it out
+(need rigidbody and sphere collider attach)
+
+the menu part is not too hard to do. just work on level design for now. 
+textures are mostly in the prototype folder. 
+
+I will do the screen shots later after all the stages are done. 
